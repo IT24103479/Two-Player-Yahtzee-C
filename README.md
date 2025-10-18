@@ -19,3 +19,7 @@ The human player competes against the computer, which uses an optimal strategy t
 1. Compile the program:
    ```bash
    gcc src/yahtzee.c -o yahtzee
+2. Run the executable:
+    ```bash
+   ./yahtzee
+3. Follow the prompts to play against the computer.
